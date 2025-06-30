@@ -22,3 +22,4 @@ User classes that are identified for our system are:
 Our Website is platform independent and responsive as we are using Bootstrap. Barcode generator and Barcode scanner makes keeping logs and updating inventory simple.
 1.5	Design and Implementation Constraints
 Our website must comply with the guidelines set by the government and the copyright issues. The website should be responsive and as much user friendly as possible because it will be used by non-technical people
+site : gstlogin.app
